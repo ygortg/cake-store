@@ -18,7 +18,7 @@ export default function PaginaSabores() {
         </section>
 
         <section className='sabores'>
-          <h3 className='titulo-card'>Sabores de Sorvetes</h3>
+          <h3 className='titulo-card'>Nossos Produtos</h3>
           
           <div className='galeria wrap'>
             

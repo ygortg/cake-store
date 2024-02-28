@@ -9,7 +9,7 @@ export default function Header() {
         <img className="logo" src="assets/logo2.png" alt="logo Gelateria"/>
         <nav>
           <Link to='/'>Home</Link>
-          <Link to='/sabores'>Sabores</Link>
+          <Link to='/sabores'>Produtos</Link>
           <Link to='/info'>Sobre</Link>
         </nav>
       </div>
